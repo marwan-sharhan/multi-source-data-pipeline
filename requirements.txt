@@ -3,3 +3,6 @@ requests
 beautifulsoup4
 psycopg
 pymongo
+python-dotenv
+openpyxl
+pytest
