@@ -1,0 +1,5 @@
+rule,invalid_rows,status
+orders_without_items,0,PASS
+order_items_without_order,0,PASS
+order_items_without_product,0,PASS
+invalid_ratings,0,PASS
